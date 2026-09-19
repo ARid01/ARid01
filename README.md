@@ -1,7 +1,11 @@
-## Hi there 👋
+<!-- Welcome + Name -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=4000&pause=999&center=true&vCenter=true&width=500&lines=Welcome!;My+name+is+Andrew+Ridgely)](https://git.io/typing-svg)
 
 ![Most Used Languages](https://gitcard-studio.creativecode.com.co/api/languages?username=ARid01&theme=dark&locale=en&preview=true)
+
+## 🌳 Git Bonsai
 <img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
+
 <!--
 **ARid01/ARid01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
