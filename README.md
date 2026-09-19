@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Most Used Languages](https://gitcard-studio.creativecode.com.co/api/languages?username=ARid01&theme=dark&locale=en&preview=true)
+
 <!--
 **ARid01/ARid01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
