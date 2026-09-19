@@ -15,8 +15,8 @@
 
 <!-- Stats -->
 <p align="center">
-  <img src="https://ghstats.dev/api/card?username=ARid01&border_radius=10" width="48%" />
-  <img src="https://ghstats.dev/api/langs?username=ARid01&theme=default&layout=donut_vertical" width="48%" />
+  <img src="https://ghstats.dev/api/card?username=ARid01&border_radius=10" height="200" />
+  <img src="https://ghstats.dev/api/langs?username=ARid01&theme=default&layout=donut_vertical" height="200" />
 </p>
 
 <!-- Sparkline -->
