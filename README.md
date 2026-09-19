@@ -1,22 +1,34 @@
-<!-- Welcome + Name -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=4000&pause=999&center=true&vCenter=true&width=500&lines=Welcome!;My+name+is+Andrew+Ridgely)](https://git.io/typing-svg)
+<div align="center">
 
-![Most Used Languages](https://gitcard-studio.creativecode.com.co/api/languages?username=ARid01&theme=dark&locale=en&preview=true)
+<!-- Name -->
+# 👋 Hi, I'm Andrew Ridgely
+
+<!-- Website -->
+### 🌐 **[andrewridgely.com](https://www.andrewridgely.com)**
+
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Software+Developer;Always+Building+Something)](https://git.io/typing-svg)
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Stats -->
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=ARid01&border_radius=10" width="48%" />
+  <img src="https://ghstats.dev/api/langs?username=ARid01&theme=default&layout=donut_vertical" width="48%" />
+</p>
+
+<!-- Sparkline -->
+<p align="center">
+  <img src="https://ghstats.dev/api/sparkline?username=ARid01&days=30&width=850" width="97%" />
+</p>
+
+---
 
 ## 🌳 Git Bonsai
-<img src="output/bonsai-growth.gif" width="384" alt="my git-bonsai" />
 
-<!--
-**ARid01/ARid01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Bonsai -->
+<img src="output/bonsai-growth.gif" width="450" alt="Git Bonsai Growth" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
