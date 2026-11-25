@@ -11,21 +11,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- Stats -->
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=ARid01&border_radius=10" height="350" />
-  <img src="https://ghstats.dev/api/langs?username=ARid01&theme=default&layout=donut_vertical" height="350" />
-</p>
-
-<!-- Sparkline -->
-<p align="center">
-  <img src="https://ghstats.dev/api/sparkline?username=ARid01&days=30&width=850" width="97%" />
-</p>
-
----
-
 ## 🌳 Git Bonsai
 
 <!-- Bonsai -->
